@@ -1,7 +1,7 @@
 # Seduhan Rindu Project
 
 # Demo
-- [Seduhan Rindu](https://masedd.github.io/seduhanrindu-project/index.html)
+- [Seduhan Rindu](https://m-edx.github.io/seduhanrindu-project/index.html)
 
 # Features
 - Bootstrap 5
